@@ -3,10 +3,14 @@
 <h3 align="center">ML Enthusiast | Java Developer | Open Source Explorer | Engineer-in-progress | Problem Solver | Curious Learner| </h3>
 
 ---
-<h2 align="center">  
-🌌 "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action." 🌌  
-</h2>  
-<p align="center">— Dr. A.P.J. Abdul Kalam</p>
+
+<h3 align="center">🌠 Inspiration 🌠</h3>
+
+<p align="center">
+  <em>"Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."</em>  
+  <br>  
+  — <strong>Dr. A.P.J. Abdul Kalam</strong>
+</p>
 
 ---
 
@@ -28,30 +32,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<!-- Fun Visual -->
-### ⚡ GitHub Vibes  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepa&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepa&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepa&theme=onedark&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
