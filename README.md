@@ -3,11 +3,10 @@
 <h3 align="center">ML Enthusiast | Java Developer | Open Source Explorer | Engineer-in-progress | Problem Solver | Curious Learner| </h3>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=%22Dream%2C+dream%2C+dream.+Dreams+transform+into+thoughts+and+thoughts+result+in+action.%22;—+Dr.+A.P.J.+Abdul+Kalam" alt="Typing SVG" />
-</p>
-
+<h2 align="center">  
+🌌 "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action." 🌌  
+</h2>  
+<p align="center">— Dr. A.P.J. Abdul Kalam</p>
 
 ---
 
