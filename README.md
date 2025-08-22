@@ -1,16 +1,13 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Deepali!  </h1>
-<h3 align="center">ML Enthusiast | Java Developer | Open Source Explorer| Engineer-in-progress | Problem Solver | Curious Learner| </h3>
+<h3 align="center">ML Enthusiast | Java Developer | Open Source Explorer | Engineer-in-progress | Problem Solver | Curious Learner| </h3>
 
 ---
 
-<h3 align="center">🌠 Inspiration 🌠</h3>
-
 <p align="center">
-  <em>"Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."</em>  
-  <br>  
-  — <strong>Dr. A.P.J. Abdul Kalam</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=%22Dream%2C+dream%2C+dream.+Dreams+transform+into+thoughts+and+thoughts+result+in+action.%22;—+Dr.+A.P.J.+Abdul+Kalam" alt="Typing SVG" />
 </p>
+
 
 ---
 
