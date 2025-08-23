@@ -45,7 +45,7 @@
 
 <!-- Closing Line -->
 ### 🌈 Let’s Connect  
-📫 Reach me via **[LinkedIn](www.linkedin.com/in/deepali-singh-3b296b317)** or drop a hi here on GitHub!  
+📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/deepali-singh-3b296b317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** or drop a hi here on GitHub!  
 
 
 <!--
