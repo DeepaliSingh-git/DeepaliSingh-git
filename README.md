@@ -44,11 +44,26 @@
 ---
 
 <!-- Closing Line -->
-### Connect with me
+<h3 align="center">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepali-singh-3b296b317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DeepaliSingh_/)
-[![Medium](https://img.shields.io/badge/Medium-READ-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thebluelightcanvas)
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepali-singh-3b296b317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/DeepaliSingh_/
+    <img src="https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@thebluelightcanvas">
+    <img src="https://img.shields.io/badge/Medium-READ-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
 
 <!--
 **DeepaliSingh-git/DeepaliSingh-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
