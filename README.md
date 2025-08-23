@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Deepali!  </h1>
-<h3 align="center">ML Enthusiast | Java Developer | Open Source Explorer | Engineer-in-progress | Problem Solver | Curious Learner| </h3>
+<h3 align="center">ML Enthusiast | Java Developer | Open Source Explorer | Problem Solver | Curious Learner  </h3>
 
 ---
 
@@ -45,7 +45,7 @@
 
 <!-- Closing Line -->
 ### 🌈 Let’s Connect  
-📫 Reach me via **[LinkedIn](https://linkedin.com/)** or drop a hi here on GitHub!  
+📫 Reach me via **[LinkedIn](www.linkedin.com/in/deepali-singh-3b296b317)** or drop a hi here on GitHub!  
 
 
 <!--
