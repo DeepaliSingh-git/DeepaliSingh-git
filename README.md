@@ -1,7 +1,8 @@
 <!-- Banner / Header -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4500&height=100&section=header&text=🔥I'm Deepali Singh!🔥&fontSize=45&fontColor=ffffff&animation=blinking&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF6EC7&height=120&section=header&text=I'm Deepali Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
