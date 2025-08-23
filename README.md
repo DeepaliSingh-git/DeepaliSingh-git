@@ -1,22 +1,7 @@
 <!-- Banner / Header -->
 <h1 align="center">
-  <svg viewBox="0 0 500 150" preserveAspectRatio="xMidYMid meet" width="80%">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF6EC7;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path id="wave" fill="url(#grad)" d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-500 0" dur="5s" repeatCount="1"/>
-    </path>
-    <text x="50%" y="80%" text-anchor="middle" font-size="60" fill="url(#grad)" font-family="Verdana" dy=".3em">
-      Deepali Singh
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF6EC7&height=120&section=header&text=Deepali_Singh&fontSize=48&fontColor=ffffff" />
 </h1>
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
