@@ -1,7 +1,21 @@
 <!-- Banner / Header -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:FF6EC7&amp;height=120&amp;section=header&amp;text=I'mDeepaliSingh&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35"/>
+  <svg viewBox="0 0 500 150" preserveAspectRatio="xMidYMid meet" width="80%">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF6EC7;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path id="wave" fill="url(#grad)" d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-500 0" dur="5s" repeatCount="1"/>
+    </path>
+    <text x="50%" y="80%" text-anchor="middle" font-size="60" fill="url(#grad)" font-family="Verdana" dy=".3em">
+      Deepali Singh
+    </text>
+  </svg>
 </h1>
+
 
 
 <p align="center">
