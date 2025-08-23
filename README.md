@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/DeepaliSingh_/
+  <a href="https://leetcode.com/u/DeepaliSingh_/">
     <img src="https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
