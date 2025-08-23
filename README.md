@@ -1,5 +1,8 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Deepali!  </h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4500&height=100&section=header&text=🔥I'm Deepali Singh!🔥&fontSize=45&fontColor=ffffff&animation=blinking&fontAlignY=35" />
+</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&lines=ML+Enthusiast+%7C+Java+Developer;Open+Source+Explorer+%7C+Problem+Solver;Curious+Learner" alt="Typing Animation" />
