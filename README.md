@@ -44,9 +44,11 @@
 ---
 
 <!-- Closing Line -->
-### 🌈 Let’s Connect  
-📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/deepali-singh-3b296b317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** or drop a hi here on GitHub!  
+### Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepali-singh-3b296b317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DeepaliSingh_/)
+[![Medium](https://img.shields.io/badge/Medium-READ-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thebluelightcanvas)
 
 <!--
 **DeepaliSingh-git/DeepaliSingh-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
