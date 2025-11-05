@@ -65,11 +65,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://medium.com/@thebluelightcanvas">
-    <img src="https://img.shields.io/badge/Medium-READ-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
 
 [![An image of @deepalisinghgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepalisinghgit)](https://holopin.io/@deepalisinghgit)
 <!--
