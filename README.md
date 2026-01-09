@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF6EC7&height=120&section=header&text=Deepali_Singh&fontSize=48&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF6EC7&height=120&section=header&text=Deepali Singh&fontSize=48&fontColor=ffffff" />
 </h1>
 
 <p align="center">
