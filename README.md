@@ -32,6 +32,13 @@
 ---
 
 <!-- Skills Section with Icons -->
+
+| GitHub Streak | Top Languages |
+|---------------|---------------|
+| <img src="https://github-readme-streak-stats-eight.vercel.app?user=DeepaliSingh-git&theme=transparent&hide_border=true&stroke=9B5DE5&ring=9B5DE5&fire=9B5DE5&currStreakLabel=9B5DE5&sideNums=9B5DE5&sideLabels=9B5DE5&dates=CBB2F0" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepaliSingh-git&theme=github_dark" height="200"/> |
+
+</div>
+
 ### 🛠️ Skills & Tools  
 
 <p align="center">
@@ -64,6 +71,10 @@
     <img src="https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
+
+<div align="center">
+
+<div align="center">
 
 
 [![An image of @deepalisinghgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepalisinghgit)](https://holopin.io/@deepalisinghgit)
