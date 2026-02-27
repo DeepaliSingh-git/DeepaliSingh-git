@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<div align="center">
+<div align="center"> 
 
 
 [![An image of @deepalisinghgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepalisinghgit)](https://holopin.io/@deepalisinghgit)
