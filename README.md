@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">🌠 Inspiration 🌠</h3>
+<h3 align="center"> Inspiration </h3>
 
 <p align="center">
   <em>"Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."</em>  
@@ -23,11 +23,11 @@
 
 
 <!-- About Me -->
-### 🙋‍♀️ About Me  
-- 💻 I love exploring the intersection of **Machine Learning, Java, and Algorithms**  
-- 🌱 Currently diving deeper into **AI & Open Source Contributions**  
-- 🚀 Always curious to build projects that solve real-world problems  
-- 🎯 Goal: To grow as a developer and contribute to impactful tech communities  
+###  About Me  
+-  I love exploring the intersection of **Machine Learning, Java, and Algorithms**  
+-  Currently diving deeper into **AI & Open Source Contributions**  
+-  Always curious to build projects that solve real-world problems  
+-  Goal: To grow as a developer and contribute to impactful tech communities  
 
 ---
 
